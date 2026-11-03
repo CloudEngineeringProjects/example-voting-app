@@ -20,3 +20,5 @@ az ad sp create-for-rbac  --name "github-actions-aks" --sdk-auth
 # Resource Group Name
 
 # Define the cicd yaml file
+
+#########
